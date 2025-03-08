@@ -13,7 +13,7 @@
 	<div>
 		<div class="flex flex-col items-center mb-5">
 			<img src={logo} alt="Adc Logo" class="mx-auto" />
-			<p class="text-6xl font-bold text-white uppercase tracking-widest">Gravity Grit Glory</p>
+			<p class="md:text-6xl text-2xl font-bold text-white uppercase tracking-widest">Gravity Grit Glory</p>
 		</div>
 		<div class="flex justify-between">
 			<Loader />

@@ -3,11 +3,11 @@
 	const adcImages = [
 		{
 			podium: [
-				'/ADC 2/images/standings/ADC20R~1.webp',
-				'/ADC 2/images/standings/ADC20R~2.webp',
-				'/ADC 2/images/standings/CONGRA~1.webp',
-				'/ADC 2/images/standings/CONGRA~2.webp',
-				'/ADC 2/images/standings/CONGRA~3.webp'
+				'https://res.cloudinary.com/dcmyqduai/image/upload/v1741441505/ADC20R_2_lj5ghm.webp',
+				'https://res.cloudinary.com/dcmyqduai/image/upload/v1741441499/ADC20R_1_yltpki.webp',
+				'https://res.cloudinary.com/dcmyqduai/image/upload/v1741441501/CONGRA_1_wgm8aj.webp',
+				'https://res.cloudinary.com/dcmyqduai/image/upload/v1741441496/CONGRA_3_recpy1.webp',
+				'https://res.cloudinary.com/dcmyqduai/image/upload/v1741441509/CONGRA_2_yedc0e.webp'
 			],
 			title: 'Standings'
 		}

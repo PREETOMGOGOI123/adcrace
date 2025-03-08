@@ -3,10 +3,10 @@
 	const adcImages = [
 		{
 			podium: [
-				'/ADC 4/images/standings/seniors.webp',
-				'/ADC 4/images/standings/juniors.webp',
-				'/ADC 4/images/standings/hard-tail.webp',
-				'/ADC 4/images/standings/full-sas.webp'
+				'https://res.cloudinary.com/dcmyqduai/image/upload/v1741440896/full-sas_d1hcer.webp',
+				'https://res.cloudinary.com/dcmyqduai/image/upload/v1741440898/hard-tail_ujiiea.webp',
+				'https://res.cloudinary.com/dcmyqduai/image/upload/v1741440898/seniors_sft2ie.webp',
+				'https://res.cloudinary.com/dcmyqduai/image/upload/v1741440897/juniors_g9eoyj.webp'
 			],
 			title: 'Standings'
 		}

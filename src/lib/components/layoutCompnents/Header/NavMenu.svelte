@@ -4,7 +4,7 @@
 </script>
 
 <nav
-	class="flex flex-col space-y-2 text-center text-gray-900 md:flex-row md:space-y-0 md:space-x-10 md:text-left"
+	class="flex flex-col space-y-2 text-center text-gray-900 md:flex-row md:space-y-0 md:space-x-10 md:text-left justify-end items-center"
 >
 	<a
 		href="/ADC-5"
@@ -33,6 +33,13 @@
 		'/ADC-2'
 			? 'active'
 			: ''}">ADC 2.0</a
+	>
+	<a
+		href="/ADC-1"
+		class="rounded-sm px-2 font-bold text-slate-300 duration-250 hover:scale-95 hover:text-slate-500 hover:underline {currentPath ===
+		'/ADC-1'
+			? 'active'
+			: ''}">ADC 1.0</a
 	>
 </nav>
 
