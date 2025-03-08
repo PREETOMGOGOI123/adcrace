@@ -3,7 +3,7 @@
     
     // Create a reactive statement to update currentPath when page changes
     $: currentPath = $page.url.pathname;
-    $: console.log("Current path:", currentPath);
+
     
     // Function to check if a path is active (with or without trailing slash)
     function isActive(path) {
