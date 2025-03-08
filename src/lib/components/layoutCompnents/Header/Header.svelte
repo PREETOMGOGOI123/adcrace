@@ -27,7 +27,7 @@
                         width="160"
                         height="auto"
                     />
-                    <p class="font-semibold text-red-100 uppercase drop-shadow-lg text-focus-in">Gravity Grit Glory</p>
+                    <p class="font-bold text-red-100 uppercase drop-shadow-lg text-focus-in">Gravity Grit Glory</p>
                 </a>
                 <!-- Hamburger Menu Button - now showing up to lg breakpoint -->
                 <button 

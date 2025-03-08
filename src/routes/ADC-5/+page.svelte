@@ -3,7 +3,7 @@
 </script>
 
     <div
-        class="w-fit p-10 mx-auto grid grid-row-auto text-center gap-12 items-center mt-16 rounded-3xl justify-center"
+        class="w-fit p-10 mx-auto grid grid-row-auto text-center gap-12 items-center md:mt-16 rounded-3xl justify-center"
     >
         <div class="roll-in-right">
             <h2

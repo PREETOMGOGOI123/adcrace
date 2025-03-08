@@ -4,7 +4,7 @@
     let currentPath = $page.url.pathname; 
     let pathSegments = currentPath.split('/').filter(Boolean);
     let lastSegment = pathSegments[pathSegments.length - 1];
-    $inspect( lastSegment)
+    console.log("Current path:", currentPath);
     
 </script>
 <div class="flex gap-8 mt-5 items-center justify-center">
