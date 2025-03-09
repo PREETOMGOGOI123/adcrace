@@ -9,7 +9,7 @@
             <h2
                 class="text-4xl font-extrabold text-white text-flicker-in-glow"
             >
-                6th February 2025
+                5th & 6th February 2025
             </h2>
         </div>
         <div class="roll-in-left flex flex-col gap-5 items-center justify-between">
