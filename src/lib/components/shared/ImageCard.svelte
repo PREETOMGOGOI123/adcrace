@@ -4,7 +4,7 @@
 </script>
 <!-- svelte-ignore a11y_click_events_have_key_events -->
 <!-- svelte-ignore a11y_no_static_element_interactions -->
-<div class="mx-auto flex w-full max-w-lg items-center justify-center hover:scale-150 duration-200 hover:z-50" onclick={onclick(index)}>
+<div class="mx-auto flex lg:flex-row flex-col max-w-lg items-center  justify-center hover:scale-150 duration-200 hover:z-50" onclick={onclick(index)}>
 	<div
 		class="relative z-10 flex w-full cursor-pointer items-center overflow-hidden rounded-xl border border-slate-800 p-[1.5px]"
 	>
